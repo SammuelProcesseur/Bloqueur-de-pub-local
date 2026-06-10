@@ -59,7 +59,7 @@ vous pouvez voir votre login Password, retenez-le bien.
 
 12: 
 
-dans une nouvelle fenêtre, tapez : https://addresse Ip du Pi/admin/login et rentrez votre mot de passe de l'étape précédente.
+dans une nouvelle fenêtre, tapez : https:// addresse Ip du Pi/admin/login et rentrez votre mot de passe de l'étape précédente.
 
 13:
 
