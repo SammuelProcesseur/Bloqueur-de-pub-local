@@ -1,4 +1,4 @@
-# Bloqueur de pub avec pipe
+# Bloqueur de pub avec un RaspberryPi
 
 Matériel:
 Un Raspberry Pi
